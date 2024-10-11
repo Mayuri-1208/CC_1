@@ -1,4 +1,4 @@
-#include <Stdio.h>
+#include <stdio.h>
 int main()
 {
 printf("This Program is genrated on Github platfrom");
